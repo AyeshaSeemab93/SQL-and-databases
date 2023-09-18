@@ -1,0 +1,47 @@
+[
+    {
+        "tekija": {
+            "etunimi": "Leila",
+            "sukunimi": "Hökki"
+        },
+        "vuosi": 2023,
+        "raportti": {
+            "otsikko": "Raportti",
+            "teksti": [
+                "Tämä vuosi 2022 oli alku GTX-sarjan kehitykselle.",
+                "Uuden tuotesarjan tekijä Pirkko Puro",
+                "oli mukana esittelytilaisuudessa...."
+            ]
+        }
+    },
+    {
+        "tekija": {
+            "etunimi": "Pirkko",
+            "sukunimi": "Puro"
+        },
+        "vuosi": 2023,
+        "raportti": {
+            "otsikko": "Raportti",
+            "teksti": [
+                "Tämä vuosi 2022 oli alku GTX-sarjan kehitykselle.",
+                "Uuden tuotesarjan tekijä Pirkko Puro",
+                "oli mukana esittelytilaisuudessa...."
+            ]
+        }
+    },
+    {
+        "tekija": {
+            "etunimi": "Leila",
+            "sukunimi": "Hökki"
+        },
+        "vuosi": 2022,
+        "raportti": {
+            "otsikko": "Raportti",
+            "teksti": [
+                "Tämä vuosi 2022 oli alku GTX-sarjan kehitykselle.",
+                "Uuden tuotesarjan tekijä Pirkko Puro",
+                "oli mukana esittelytilaisuudessa...."
+            ]
+        }
+    }
+]
